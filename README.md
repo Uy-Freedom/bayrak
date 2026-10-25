@@ -3,7 +3,7 @@
 # 🚀 HELLO WORLD, IT IS FREEDOM
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🟢_AVAILABLE_FOR_COLLABORATION-0d1117?style=for-the-badge&logoColor=38bdf8&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20COLLABORATION-success?style=for-the-badge&logo=github" alt="Collaboration status" />
 </p>
 
 </div>
@@ -33,13 +33,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uy-Freedom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uy-Freedom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uy-Freedom&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uy-Freedom&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uy-Freedom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
