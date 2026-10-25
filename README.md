@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✨_AVAILABLE_FOR_COLLABORATION-0d1117?style=for-the-badge&logoColor=38bdf8&labelColor=0d1117" alt="Available for collaboration" style="border: 1px solid #38bdf8; border-radius: 20px;" />
+  <img src="https://img.shields.io/badge/✨_AVAILABLE_FOR_COLLABORATION-0d1117?style=for-the-badge&logoColor=38bdf8&labelColor=0d1117" alt="Available for collaboration" />
 </p>
 
 # 🚀 HELLO WORLD, IT IS FREEDOM
