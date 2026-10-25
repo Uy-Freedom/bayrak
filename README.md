@@ -1,8 +1,8 @@
 <div align="center">
 
-<span style="background-color: #0d1117; color: #38bdf8; padding: 6px 16px; border-radius: 20px; border: 1px solid #38bdf8; font-weight: bold; font-size: 14px; box-shadow: 0 0 12px rgba(56, 189, 248, 0.4);">
-✨ AVAILABLE FOR COLLABORATION
-</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/✨_AVAILABLE_FOR_COLLABORATION-0d1117?style=for-the-badge&logoColor=38bdf8&labelColor=0d1117" alt="Available for collaboration" style="border: 1px solid #38bdf8; border-radius: 20px;" />
+</p>
 
 # 🚀 HELLO WORLD, IT IS FREEDOM
 
@@ -17,7 +17,7 @@
 ### 🌐 مەن ھەققىدە (About Me)
 - 🔭 ئوپېن-سۆرس (Open-source) ۋە مەركەزلەشتۈرۈلمىگەن (Decentralized) تۈرلەر ئۈستىدە ئىشلەيمەن.
 - 🌱 ھازىر ئىلغار سىستېما ئارخىتېكتورمىسى ۋە زامانىۋى تور تېخنىكىلىرىنى ئۆگىنىۋاتىمەن.
-- 💬 يۇمشاق دېستال تەرەققىياتى، سىستېما لايىھىلەش ۋە پاكىز كود (Clean Code) توغرىسىدا پىكىر ئالماشتۇرالايمىز.
+- 💬 يۇمشاق دېتال تەرەققىياتى، سىستېما لايىھىلەش ۋە پاكىز كود (Clean Code) توغرىسىدا پىكىر ئالماشتۇرالايمىز.
 - ⚡ **ۇرانىمىز:** كود بولسا سەنئەت ۋە ئەركىنلىك!
 
 ---
@@ -38,12 +38,12 @@
 
 ### 📊 گىتخاپ ستاتىستىكىسى (GitHub Stats)
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Uy-Freedom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uy-Freedom&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uy-Freedom&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
