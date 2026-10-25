@@ -1,50 +1,53 @@
 <div align="center">
 
-  <!-- يۇقىرىدىكى سالامەتلىك/ھالەت بەلگىسى (Badge) -->
-  <p>
-    <img src="https://img.shields.io/badge/STATUS%3A%20WILD%20MODE-FF0055?style=for-the-badge&color=111111&labelColor=ff0055" alt="Wild Mode Active"/>
-    <img src="https://img.shields.io/badge/SECURITY%3A%20UNCOMPROMISING-00F0FF?style=for-the-badge&color=111111&labelColor=00f0ff" alt="Security"/>
-  </p>
+<span style="background-color: #0d1117; color: #38bdf8; padding: 6px 16px; border-radius: 20px; border: 1px solid #38bdf8; font-weight: bold; font-size: 14px; box-shadow: 0 0 12px rgba(56, 189, 248, 0.4);">
+✨ AVAILABLE FOR COLLABORATION
+</span>
 
-  <h3 style="color: #64748b; font-family: monospace; letter-spacing: 2px;">// SYSTEM OVERRIDE INITIATED</h3>
+# 🚀 HELLO WORLD, IT IS FREEDOM
 
-  <!-- ھەرىكەتچان ۋە ۋەھشى نۇرلۇق تېكىסט (Neon Red/Blue Glow Effect) -->
-  <h1 style="font-size: 55px; font-weight: 900; color: #ff0055; text-shadow: 0 0 20px rgba(255, 0, 85, 0.8), 0 0 40px rgba(0, 240, 255, 0.4); font-family: monospace;">
-    WILDFREEDOM
-  </h1>
-
-  <p style="color: #94a3b8; max-width: 550px; font-size: 15px; font-family: monospace;">
-    Unleashing raw power through aggressive code, decentralized architecture, and relentless execution. No rules, just pure performance.
-  </p>
-
-  <!-- تېخنىكا ياكى كەيپىيات بەلگىلىرى -->
-  <p style="font-family: monospace;">
-    <code>&lt;RawPower /&gt;</code> &nbsp;&nbsp;
-    <code>CyberWild</code> &nbsp;&nbsp;
-    <code>Unstoppable</code>
-  </p>
+<p align="center">
+  <b>Building open, decentralized, and elegant software experiences. Empowering innovation through clean code and modern technology.</b>
+</p>
 
 </div>
 
-<br>
+---
+
+### 🌐 مەن ھەققىدە (About Me)
+- 🔭 ئوپېن-سۆرس (Open-source) ۋە مەركەزلەشتۈرۈلمىگەن (Decentralized) تۈرلەر ئۈستىدە ئىشلەيمەن.
+- 🌱 ھازىر ئىلغار سىستېما ئارخىتېكتورمىسى ۋە زامانىۋى تور تېخنىكىلىرىنى ئۆگىنىۋاتىمەن.
+- 💬 يۇمشاق دېستال تەرەققىياتى، سىستېما لايىھىلەش ۋە پاكىز كود (Clean Code) توغرىسىدا پىكىر ئالماشتۇرالايمىز.
+- ⚡ **ۇرانىمىز:** كود بولسا سەنئەت ۋە ئەركىنلىك!
 
 ---
 
-<!-- ئاستىدىكى سىستېما ھالىتى ۋە ئورۇن ئۇچۇرى -->
-<table width="100%" style="border: none; background: transparent;">
-  <tr>
-    <td align="left" style="color: #ff0055; font-family: monospace; font-size: 13px;">
-      <b>SYS.STATUS //</b> RUNNING AT MAX CAPACITY
-    </td>
-    <td align="right" style="color: #00f0ff; font-family: monospace; font-size: 13px;">
-      <b>EAST TURKESTAN //</b> 2026
-    </td>
-  </tr>
-</table>
+### 🛠️ تېخنىكا ئاساسى (Tech Stack)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-<br>
+---
 
-<!-- قوشۇمچە ۋەھشى گرافىك ياكى σταtistics (GitHub Stats) كۆزنەكى -->
+### 📊 گىتخاپ ستاتىستىكىسى (GitHub Stats)
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=00F0FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <sub>✨ Designed with passion and code by FREEDOM</sub>
 </div>
