@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 HELLO WORLD, IT IS FREEDOM
+# 🚀 HELLO WORLD, IT IS FREEDOM
 
 <p align="center">
   <img src="https://img.shields.io/badge/🟢_AVAILABLE_FOR_COLLABORATION-0d1117?style=for-the-badge&logoColor=38bdf8&labelColor=0d1117" />
@@ -10,16 +10,14 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 I just kicked off my journey into software development today![cite: 5]
-- 💻 Currently mastering modern web technologies, algorithms, and core programming languages.[cite: 5]
-- 💡 Passionate about writing clean, scalable code and building modern applications.[cite: 5]
-- 🎯 Goal: Become a proficient full-stack developer and contribute to impactful projects.[cite: 5]
-- 🤝 Open to collaborating on open-source repositories and learning from the community.[cite: 5]
+### 🌐 About Me
+- 🔭 ئوپېن-سۆرس (Open-source) ۋە مەركەزلەشتۈرۈلمىگەن تۈرلەر ئۈستىدە ئىشلەيمەن.
+- 🌱 ھازىر ئىلغار سىستېما تېخنىكىلىرىنى ۋە پۇختا كود يېزىشنى ئۆگىنىۋاتىمەن.
+- 💬 تېخنىكا ۋە يۇمشاق دېتال تەرەققىياتى توغرىسىدا پىكىر ئالماشتۇرالايمىز.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
